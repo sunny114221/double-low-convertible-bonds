@@ -24,7 +24,7 @@ In the hedged version, I used the stock index future (IC consecutive next month)
 ## Plot
 
 As a method of single factor, it was effective to an extend.
-![a]()
+![a](https://github.com/Alexandre316/double-low-convertible-bonds/blob/master/Output/BalanceInAccount.png)
 
 
 ## Defects and Improvement
