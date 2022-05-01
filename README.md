@@ -6,7 +6,7 @@ As a kind of bonds, the payment of principal and interest of convertible bonds i
 
 ## Method
 
-At the end of the month (denotes $t$), compute 'double low' index $L_{i,t}$=$p*Price_{i,t}$+$q*Premium_{i,t}$ (I set $p=0.3$ and $q=0.7$). Select the lowest $N_t$ bonds and wait. The selected bonds should meet the following conditions:1) at lease 30 million outstanding balance; 2) at least 365 days left; 3) ranks AA or above; 
+At the end of the month (denotes ![a](http://latex.codecogs.com/svg.latex?t)), compute 'double low' index ![a](http://latex.codecogs.com/svg.latex?L_{i,t}=pPrice_{i,t}+qPremium_{i,t})(I set $p=0.3$ and $q=0.7$). Select the lowest $N_t$ bonds and wait. The selected bonds should meet the following conditions:1) at lease 30 million outstanding balance; 2) at least 365 days left; 3) ranks AA or above; 
 
 Specifically, at the end of each month, we have $N_t$ bonds, and then we sell those in the position but not in  $N_t$ at close price and buy the new bonds in  $N_t$ on the first trade day the next month at the average price.  
 
