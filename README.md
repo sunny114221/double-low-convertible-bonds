@@ -29,6 +29,6 @@ As a method of single factor, it was effective to an extend.
 
 ## Defects and Improvement
 
-- We should buy and sell stock index future in integer, which means the hedge effect would be much worse
+- We should buy and sell stock index future in integer, which means the hedge effect would be much worse (Maybe)
 - Convertible bond market is not that large, if we want to hedge in the real world
-- We want to hedge convertible bond market,  but we use stock index future
+- We want to hedge the risk of convertible bond market,  but I used stock index future
