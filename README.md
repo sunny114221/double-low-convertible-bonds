@@ -1,8 +1,9 @@
 # Low Price and Low Premium Ratio Convertible Bonds
 
-## Intro
+## Why I did this?
 
-As a kind of bonds, the payment of principal and interest of convertible bonds is the protection of its price, which means that the space for drawdown of convertible bonds is limited, and we can buy for rising elasticity.
+As a kind of bonds, the payment of principal and interest of convertible bonds is the protection of its price, which means that the space for drawdown of convertible bonds is limited, and we can buy for rising elasticity.  
+Thanks to the elasticity of convertible bonds portfolio, it has 'Alpha' from time to time. Therefore, I came up with a simple idea that a convertible bonds portfolio could be hedge by stock index future maybe.
 
 ## Method
 
