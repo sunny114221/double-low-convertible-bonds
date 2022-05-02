@@ -32,7 +32,7 @@ As a method of single factor, it was effective to an extend. The unhedged versio
 
 |                  | Shapre | annual return | Max Drawdown |
 | ---------------- | ------ | ------------- | ------------ |
-| Hedged Version   | 0.5671 | 7.91%         | -9.01%       |
+| Hedged Version   | 0.5059 | 7.53%         | -7.24%       |
 | Unhedged Version | 0.4791 | 10.04%        | -20.75%      |
 
 
