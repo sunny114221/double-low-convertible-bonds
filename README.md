@@ -28,7 +28,7 @@ Thanks to the elasticity of convertible bonds portfolio, it has 'Alpha' from tim
 As a method of single factor, it was effective to an extend. The unhedged version shows a feature of elasticity, while the hedged version is much more stable.  
 
 ![a](./Output/BalanceInAccount.png)
-![a](./Output/BalanceInAccount(Unhedged).png)
+![a](./Output/BalanceAccount(Unhedged).png)
 
 |                  | Shapre | annual return | Max Drawdown |
 | ---------------- | ------ | ------------- | ------------ |
